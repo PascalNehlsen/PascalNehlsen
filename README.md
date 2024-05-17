@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PascalNehlsen
 - 👀 I’m interested in development, social networking and clean code
-- 🌱 I’m currently learning JS, Angular and the hole Frontend
+- 🌱 I’m currently learning JS, Angular and the entire Frontend
 - 💞️ I’m looking to collaborate on projects that change the world
 - 📫 How to reach me by linkedIn or xing
 - ⚡ Fun fact: social worker meets development
