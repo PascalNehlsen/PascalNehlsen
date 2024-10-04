@@ -2,7 +2,7 @@
 - 👀 I’m interested in development, social networking and clean code
 - 💞️ I’m currently learning DevSecOps
 - 🌱 I’m a Web Developer ( Angular, JavaScript, TypeScript )
-- 📫 Reach me by linkedIn or xing
+- 📫 Reach me by linkedIn or through my personal website
 - ⚡ Fun fact: social worker meets development
 
 <!---
