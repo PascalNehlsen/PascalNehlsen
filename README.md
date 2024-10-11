@@ -1,6 +1,6 @@
 <div align="center">
 💫 About Me: <br>
-👋 Hi, I’m @PascalNehlsen<br>👀 I’m interested in development, social networking and clean code<br>💞️  I’m currently learning DevSecOps<br>🌱 I’m a Web Developer ( Angular, JavaScript, TypeScript )<br>📫 Reach me by [LinkedIn](https://www.linkedin.com/in/pascal-nehlsen) or through my [personal website](https://pascal-nehlsen.de) <br>⚡ Fun fact: social worker meets development
+👋 Hi, I’m @PascalNehlsen<br>👀 I’m interested in development, social networking and clean code<br>💞️  I’m currently learning DevSecOps<br>🌱 I’m a Web Developer ( Angular, JavaScript, TypeScript )<br>⚡ Fun fact: social worker meets development
 
 
 ## 🌐 Socials:
