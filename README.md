@@ -1,8 +1,12 @@
 <div align="center">
   
 ## 💫 About Me  
-👋 Hi, I’m @PascalNehlsen<br>👀 I’m interested in development, social networking and clean code<br>💞️  I’m currently learning DevSecOps<br>🌱 I’m a Web Developer ( Angular, JavaScript, TypeScript )<br>⚡ Fun fact: social worker meets development
-
+👋 Hi, I’m **Pascal Nehlsen** <br/>
+👀 **Interests**: Development, social networking, and writing clean, maintainable code. <br/>
+🌱 **Daily Work**: DevSecOps Engineer, mentoring career changers and fostering growth in the tech community. <br/>
+💡 **Skills**: DevSecOps Engineer and Frontend Developer specializing in Angular, JavaScript, and TypeScript. <br/>
+🤝 **Passion**: Mentoring others and growing together as a community of learners. <br/>
+⚡ **Fun Fact**: From social work to software development – bringing empathy and collaboration into tech.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pascal-nehlsen) 
@@ -19,11 +23,5 @@ See also: <br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PascalNehlsen&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PascalNehlsen&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=PascalNehlsen&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
